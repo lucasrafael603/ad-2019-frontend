@@ -5,6 +5,18 @@
 ### 2° Yarn upgrade
 ### 3° Yarn start
 
+# Tecnologias utilizadas:
+
+## ReactJS
+## React Hooks
+## Javascript
+## HTML
+## CSS
+## Styled-Components
+## Alguns conceitos de Responsividade (Trabalhar com Unidades de medidas dinamicas)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
