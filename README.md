@@ -1,3 +1,10 @@
+# Sistema de Amigo secreto
+
+### Para funcionar corretamente, precisamos que o backend esteja rodando em paralelo.
+### 1° Rodar yarn 
+### 2° Yarn upgrade
+### 3° Yarn start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
