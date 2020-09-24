@@ -1,0 +1,15 @@
+
+.check{
+
+    background-color: white;
+    color: white;
+}
+
+header{
+        
+        display: flex;
+        justify-content: center;
+        line-height: 3.0rem;
+        font-size: 3.0rem;
+
+}

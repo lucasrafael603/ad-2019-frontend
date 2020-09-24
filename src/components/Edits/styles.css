@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+
+
+
+.globalEdit{
+
+  font-family: 'Roboto', sans-serif;
+
+
+}
+
+
+
+h1{
+
+    display: flex;
+    justify-content: center;
+    background-color: #249;
+    color: white
+
+}
+
+div{
+
+margin: 1.5rem;
+  
+}
+
+form {
+    display: flex;
+    align-items: center;
+    border: 8px solid red;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    padding: 5%;
+    background-color: #249;
+    color: white;
+    font-weight: bolder;
+}
+
+button:hover{
+
+  color: green;
+  transition: 0.5s;
+}
+
+div button{
+
+
+
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: #249;
+    
+
+
+}
+
+div nav button{
+
+  color: white;
+  cursor: pointer;
+
+}
+
+  
+  
