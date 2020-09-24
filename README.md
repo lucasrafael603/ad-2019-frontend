@@ -1,4 +1,4 @@
-# Sistema de Amigo secreto
+# Sistema de Amigo secreto - Frontend
 
 ### Para funcionar corretamente, precisamos que o backend esteja rodando em paralelo.
 ### 1° Rodar yarn 
